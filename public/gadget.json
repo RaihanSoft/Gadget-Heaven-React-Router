@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://www.zdnet.com/a/img/resize/7c135e7748ad80aa72743c58c1d067ba1a0fddcf/2023/10/06/4e7663f4-fe43-424e-8fde-64a5612cdfd7/img-1950.jpg?auto=webp&width=1280",
+    "category": "iPhone",
+    "price": 100,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYUBSMDJHql4ormT2XkebhgtzDfwxVXuLTw&s",
+    "category": "Phones",
+    "price": 150,
+    "description": "A powerful smartphone with advanced features and stunning display.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Snapdragon 8 Gen 2",
+      "200MP quad-camera system",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xdclQ2hq1gGxlY1bXNL1-KdXDLF30IaBAQ&s",
+    "category": "MacBook",
+    "price": 500,
+    "description": "Lightweight and powerful laptop with Apple's M2 chip.",
+    "specification": [
+      "13.6-inch Retina display",
+      "Apple M2 chip",
+      "Up to 24GB unified memory",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRb2GA8FpTLt_KrfUm77RpYuU7DWLa476tYg&s",
+    "category": "Smart Watches",
+    "price": 50,
+    "description": "Latest Apple Watch with health monitoring and emergency SOS features.",
+    "specification": [
+      "1.9-inch LTPO OLED display",
+      "S9 chip",
+      "Health tracking features",
+      "GPS + Cellular",
+      "Up to 18 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "product_title": "Sony Xperia 1 V",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5r7rpKmGAakPPk_f8Hk3fSOTXgLhsSLo7Rw&s",
+    "category": "Phones",
+    "price": 300,
+    "description": "Sony's premium smartphone with advanced video recording features.",
+    "specification": [
+      "6.5-inch 4K HDR OLED display",
+      "Snapdragon 8 Gen 1",
+      "12MP triple camera",
+      "Up to 512GB storage",
+      "Cinematic recording features"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqdRGOfnNFBSiW5nEYeY3a-4NL0ZX48-6lSA&s",
+    "category": "Phones",
+    "price": 500,
+    "description": "Google's latest phone with AI-powered features and excellent camera.",
+    "specification": [
+      "6.7-inch OLED display",
+      "Google Tensor G3",
+      "50MP triple camera",
+      "Titan M2 security chip",
+      "Up to 512GB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8WUsYPhlM1Dg8l9fAEwYbV9oJtXHGWAhyA&s",
+    "category": "Laptops",
+    "price": 350,
+    "description": "Compact and efficient laptop with InfinityEdge display.",
+    "specification": [
+      "13.4-inch FHD+ display",
+      "Intel Core i7-1260P",
+      "16GB RAM",
+      "512GB SSD storage"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkd6xEks0drohOm0KK32_Vbfl1sq-EfPez5w&s",
+    "category": "Smart Watches",
+    "price": 60,
+    "description": "Advanced smartwatch with health tracking and AMOLED display.",
+    "specification": [
+      "1.4-inch AMOLED display",
+      "Exynos W930 chip",
+      "Health monitoring sensors",
+      "GPS tracking",
+      "Up to 40 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "product_title": "Anker PowerCore 10000",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnX5Q93JOXQ0mO08zGJR_MZU8ehG8IPXcYQg&s",
+    "category": "Accessories",
+    "price": 70,
+    "description": "Compact portable charger with high-speed charging capabilities.",
+    "specification": [
+      "10000mAh battery",
+      "High-speed charging",
+      "Lightweight and portable"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "product_title": "Apple AirPods Pro 2",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmc8t2sgHQ5zafmzruHEJX0rM21HZS7G0N2Q&s",
+    "category": "Accessories",
+    "price": 240,
+    "description": "Noise-canceling wireless earbuds with spatial audio.",
+    "specification": [
+      "Active Noise Cancellation",
+      "Spatial Audio",
+      "Up to 6 hours listening time"
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]
